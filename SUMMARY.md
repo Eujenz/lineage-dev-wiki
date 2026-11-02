@@ -140,6 +140,7 @@
   * [變身檔-僵直分析與修改](09_Morphs_Modification/123_變身檔-僵直分析與修改.md)
   * [變身檔-撿取分析與修改](09_Morphs_Modification/124_變身檔-撿取分析與修改.md)
   * [變身檔-指向指令分析與修改](09_Morphs_Modification/125_變身檔-指向指令分析與修改.md)
+  * [變身檔-TW130819011 編碼檔格式整理](09_Morphs_Modification/130_變身檔-TW130819011_編碼檔格式整理.md)
 * [XML 設定檔與 JAXB 腳本](README.md)
   * [XML 基礎教學](10_XML_Scripting/000_XML_基礎教學.md)
   * [JAXB 基礎](10_XML_Scripting/126_JAXB_基礎.md)
